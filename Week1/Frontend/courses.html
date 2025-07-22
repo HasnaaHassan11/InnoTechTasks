@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Courses</title>
+    <link rel="icon" type="image/x-icon" href="data:image/x-icon;base64," />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+      body {
+        background-color: #f8fafc;
+        font-family: 'Public Sans', 'Noto Sans', sans-serif;
+      }
+      .table thead th {
+        background-color: #f8fafc;
+        color: #101418;
+        font-weight: 500;
+        font-size: 15px;
+      }
+      .table td, .table th {
+        vertical-align: middle;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container-fluid min-vh-100 d-flex flex-column">
+      <header class="d-flex align-items-center justify-content-between border-bottom px-4 py-3" style="border-color: #eaedf1;">
+            <div class="d-flex align-items-center gap-3 text-dark">
+                <div style="width: 24px; height: 24px;">
+                    <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:100%;">
+                        <path d="M4 4H17.3334V17.3334H30.6666V30.6666H44V44H4V4Z" fill="currentColor"></path>
+                    </svg>
+                </div>
+                <h2 class="fw-bold fs-5 mb-0" style="letter-spacing: -0.015em;">Student Affairs Management System</h2>
+            </div>
+            <div class="d-flex flex-grow-1 justify-content-end gap-4 align-items-center">
+                <nav class="d-flex gap-4">
+                    <a class="text-dark fw-medium text-decoration-none" href="index.html">Dashboard</a>
+                    <a class="text-dark fw-medium text-decoration-none" href="students.html">Students</a>
+                    <a class="text-dark fw-medium text-decoration-none" href="courses.html">Courses</a>
+                    <a class="text-dark fw-medium text-decoration-none" href="enrollment.html">Enrollment</a>
+                    <a class="text-dark fw-medium text-decoration-none" href="attendance.html">Attendance</a>
+                    <a class="text-dark fw-medium text-decoration-none" href="login.html">Login</a>
+                </nav>
+                <button class="btn btn-light fw-bold d-flex align-items-center gap-2 px-3 py-2" style="background-color: #eaedf1; color: #101418;">
+                    <span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" fill="currentColor" viewBox="0 0 256 256">
+                            <path d="M221.8,175.94C216.25,166.38,208,139.33,208,104a80,80,0,1,0-160,0c0,35.34-8.26,62.38-13.81,71.94A16,16,0,0,0,48,200H88.81a40,40,0,0,0,78.38,0H208a16,16,0,0,0,13.8-24.06ZM128,216a24,24,0,0,1-22.62-16h45.24A24,24,0,0,1,128,216ZM48,184c7.7-13.24,16-43.92,16-80a64,64,0,1,1,128,0c0,36.05,8.28,66.73,16,80Z"></path>
+                        </svg>
+                    </span>
+                </button>
+                <a href="studentProfile.html" class="rounded-circle ms-2" style="width:40px;height:40px;display:inline-block;overflow:hidden;">
+                  <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuD92Zr31w7U4P5WY_QOFR60FnN6Hzt1KcfzjSYTkfw1FDUXJxGMulVoWqLMoL5tbknc_QmjaSsdGczsE2Rk6iTMyETHVVQfsxL3APlZWugsiO6Q-N_ueJksSHY--WS1CbcNv_DtUA7x1EbcaNF0vSA1Oq_J00AxabQo-MbglwS8oDAM8N6b9H67DYZvMz005BFt_klTDUww93eFglQJIS2mX7qZ751slebYEIoqCVxraZL8rdLFSX_otjqXR972qnM9Sb-JTL7DWiNb"
+                  alt="Profile" style="width:40px;height:40px;object-fit:cover;">
+                 </a>
+            </div>
+        </header>
+      <main class="flex-grow-1 d-flex justify-content-center py-5 px-5">
+        <div class="w-100" style="max-width: 960px;">
+          <div class="d-flex flex-wrap justify-between gap-3 p-4">
+            <p class="fw-bold fs-2 text-dark mb-0" style="letter-spacing: 0.01em; min-width: 18rem;">Courses</p>
+            <button class="btn fw-medium ms-5" style="background-color:#001f3f;color:#fff;min-width:120px;height:38px;">Add Course</button>
+          </div>
+          <div class="table-responsive rounded-3 border" style="border-color:#d4dbe2; background-color:#f8fafc;">
+            <table class="table mb-0 align-middle">
+              <thead>
+                <tr>
+                  <th class="px-4 py-3 text-start" style="min-width:120px;">Code</th>
+                  <th class="px-4 py-3 text-start" style="min-width:200px;">Name</th>
+                  <th class="px-4 py-3 text-start" style="min-width:80px;">Credits</th>
+                  <th class="px-4 py-3 text-start" style="min-width:160px;">Department</th>
+                  <th class="px-4 py-3 text-start text-secondary" style="min-width:140px;">Actions</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr style="border-top:1px solid #d4dbe2;">
+                  <td class="px-4 py-2 text-secondary" style="font-size:15px;">CS101</td>
+                  <td class="px-4 py-2 text-dark" style="font-size:15px;">Introduction to Computer Science</td>
+                  <td class="px-4 py-2 text-secondary" style="font-size:15px;">3</td>
+                  <td class="px-4 py-2 text-secondary" style="font-size:15px;">Computer Science</td>
+                  <td class="px-4 py-2" style="font-size:15px;">
+                    <button class="btn btn-info btn-sm me-2" style="color:#fff;">Edit</button>
+                    <button class="btn btn-danger btn-sm">Delete</button>
+                  </td>
+                </tr>
+                <tr style="border-top:1px solid #d4dbe2;">
+                  <td class="px-4 py-2 text-secondary" style="font-size:15px;">MA101</td>
+                  <td class="px-4 py-2 text-dark" style="font-size:15px;">Calculus I</td>
+                  <td class="px-4 py-2 text-secondary" style="font-size:15px;">4</td>
+                  <td class="px-4 py-2 text-secondary" style="font-size:15px;">Mathematics</td>
+                  <td class="px-4 py-2" style="font-size:15px;">
+                    <button class="btn btn-info btn-sm me-2" style="color:#fff;">Edit</button>
+                    <button class="btn btn-danger btn-sm">Delete</button>
+                  </td>
+                </tr>
+                <tr style="border-top:1px solid #d4dbe2;">
+                  <td class="px-4 py-2 text-secondary" style="font-size:15px;">PH101</td>
+                  <td class="px-4 py-2 text-dark" style="font-size:15px;">Physics I</td>
+                  <td class="px-4 py-2 text-secondary" style="font-size:15px;">4</td>
+                  <td class="px-4 py-2 text-secondary" style="font-size:15px;">Physics</td>
+                  <td class="px-4 py-2" style="font-size:15px;">
+                    <button class="btn btn-info btn-sm me-2" style="color:#fff;">Edit</button>
+                    <button class="btn btn-danger btn-sm">Delete</button>
+                  </td>
+                </tr>
+                <tr style="border-top:1px solid #d4dbe2;">
+                  <td class="px-4 py-2 text-secondary" style="font-size:15px;">EN101</td>
+                  <td class="px-4 py-2 text-dark" style="font-size:15px;">English Composition</td>
+                  <td class="px-4 py-2 text-secondary" style="font-size:15px;">3</td>
+                  <td class="px-4 py-2 text-secondary" style="font-size:15px;">English</td>
+                  <td class="px-4 py-2" style="font-size:15px;">
+                    <button class="btn btn-info btn-sm me-2" style="color:#fff;">Edit</button>
+                    <button class="btn btn-danger btn-sm">Delete</button>
+                  </td>
+                </tr>
+                <tr style="border-top:1px solid #d4dbe2;">
+                  <td class="px-4 py-2 text-secondary" style="font-size:15px;">CH101</td>
+                  <td class="px-4 py-2 text-dark" style="font-size:15px;">Chemistry I</td>
+                  <td class="px-4 py-2 text-secondary" style="font-size:15px;">4</td>
+                  <td class="px-4 py-2 text-secondary" style="font-size:15px;">Chemistry</td>
+                  <td class="px-4 py-2" style="font-size:15px;">
+                    <button class="btn btn-info btn-sm me-2" style="color:#fff;">Edit</button>
+                    <button class="btn btn-danger btn-sm">Delete</button>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </main>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

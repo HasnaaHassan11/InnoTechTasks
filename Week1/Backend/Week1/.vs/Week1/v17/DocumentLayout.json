@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\InnoTech Tasks\\Week1\\Backend\\Week1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E772F34A-E7A8-4DEA-B1F4-908C3F08CBED}|WritingNumbersFrom1ToN\\WritingNumbersFrom1ToN.csproj|c:\\users\\hp\\desktop\\innotech tasks\\week1\\backend\\week1\\writingnumbersfrom1ton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E772F34A-E7A8-4DEA-B1F4-908C3F08CBED}|WritingNumbersFrom1ToN\\WritingNumbersFrom1ToN.csproj|solutionrelative:writingnumbersfrom1ton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9A4C8F-C058-4A13-89D5-429E92EC7172}|SummationFrom1ToN\\SummationFrom1ToN.csproj|c:\\users\\hp\\desktop\\innotech tasks\\week1\\backend\\week1\\summationfrom1ton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9A4C8F-C058-4A13-89D5-429E92EC7172}|SummationFrom1ToN\\SummationFrom1ToN.csproj|solutionrelative:summationfrom1ton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\InnoTech Tasks\\Week1\\Backend\\Week1\\WritingNumbersFrom1ToN\\Program.cs",
+              "RelativeDocumentMoniker": "WritingNumbersFrom1ToN\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\InnoTech Tasks\\Week1\\Backend\\Week1\\WritingNumbersFrom1ToN\\Program.cs",
+              "RelativeToolTip": "WritingNumbersFrom1ToN\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T09:34:42.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\InnoTech Tasks\\Week1\\Backend\\Week1\\SummationFrom1ToN\\Program.cs",
+              "RelativeDocumentMoniker": "SummationFrom1ToN\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\InnoTech Tasks\\Week1\\Backend\\Week1\\SummationFrom1ToN\\Program.cs",
+              "RelativeToolTip": "SummationFrom1ToN\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T09:10:58.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\InnoTech Tasks\Week1\Backend\Week1\WritingNumbersFrom1ToN\bin\Debug\net8.0\WritingNumbersFrom1ToN.exe
+C:\Users\HP\Desktop\InnoTech Tasks\Week1\Backend\Week1\WritingNumbersFrom1ToN\bin\Debug\net8.0\WritingNumbersFrom1ToN.deps.json
+C:\Users\HP\Desktop\InnoTech Tasks\Week1\Backend\Week1\WritingNumbersFrom1ToN\bin\Debug\net8.0\WritingNumbersFrom1ToN.runtimeconfig.json
+C:\Users\HP\Desktop\InnoTech Tasks\Week1\Backend\Week1\WritingNumbersFrom1ToN\bin\Debug\net8.0\WritingNumbersFrom1ToN.dll
+C:\Users\HP\Desktop\InnoTech Tasks\Week1\Backend\Week1\WritingNumbersFrom1ToN\bin\Debug\net8.0\WritingNumbersFrom1ToN.pdb
+C:\Users\HP\Desktop\InnoTech Tasks\Week1\Backend\Week1\WritingNumbersFrom1ToN\obj\Debug\net8.0\WritingNumbersFrom1ToN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\InnoTech Tasks\Week1\Backend\Week1\WritingNumbersFrom1ToN\obj\Debug\net8.0\WritingNumbersFrom1ToN.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\InnoTech Tasks\Week1\Backend\Week1\WritingNumbersFrom1ToN\obj\Debug\net8.0\WritingNumbersFrom1ToN.AssemblyInfo.cs
+C:\Users\HP\Desktop\InnoTech Tasks\Week1\Backend\Week1\WritingNumbersFrom1ToN\obj\Debug\net8.0\WritingNumbersFrom1ToN.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\InnoTech Tasks\Week1\Backend\Week1\WritingNumbersFrom1ToN\obj\Debug\net8.0\WritingNumbersFrom1ToN.dll
+C:\Users\HP\Desktop\InnoTech Tasks\Week1\Backend\Week1\WritingNumbersFrom1ToN\obj\Debug\net8.0\refint\WritingNumbersFrom1ToN.dll
+C:\Users\HP\Desktop\InnoTech Tasks\Week1\Backend\Week1\WritingNumbersFrom1ToN\obj\Debug\net8.0\WritingNumbersFrom1ToN.pdb
+C:\Users\HP\Desktop\InnoTech Tasks\Week1\Backend\Week1\WritingNumbersFrom1ToN\obj\Debug\net8.0\WritingNumbersFrom1ToN.genruntimeconfig.cache
+C:\Users\HP\Desktop\InnoTech Tasks\Week1\Backend\Week1\WritingNumbersFrom1ToN\obj\Debug\net8.0\ref\WritingNumbersFrom1ToN.dll
